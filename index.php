@@ -1,5 +1,5 @@
 <header>
-    Andrew Soltis
+    <h1>Andrew Soltis</h1>
 </header>
 <body>
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
