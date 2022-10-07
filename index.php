@@ -5,8 +5,7 @@
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
     <tbody>
         <tr>
-            <td style="width: 395.5pt;padding: 15.25pt 0.25pt;height: 760pt;vertical-align: top;" valign="top" width="68%">
-                <p style='margin:0in;font-size:16px;font-family:"Times New Roman",serif;line-height: 95.5pt;'><br></p>
+            <td style="width: 395.5pt;padding: 15.25pt 0.25pt;height: 613.4pt;vertical-align: top;" valign="top" width="68%">
                 <p style='margin:0in;font-size:19px;font-family:"Times New Roman",serif;color:#373D48;line-height: 20pt;'><strong>Education</strong></p>
                 <p style='margin:0in;line-height:3.0pt;font-size:1px;font-family:"Times New Roman",serif;'><span style="color: rgb(52, 52, 52);">&nbsp;</span></p>
                 <div style='margin:0in;font-size:16px;font-family:"Times New Roman",serif;border-style: solid none none;border-top-width: 1pt;border-top-color: rgb(213, 214, 214);padding: 0in;'>
@@ -66,11 +65,14 @@
                                 <p style='margin:0in;font-size:16px;font-family:"Times New Roman",serif;margin-top: 4pt;line-height: 15pt;'><span style="border:none windowtext 1.0pt;padding:0in;vertical-align:baseline;"><em><span style="font-size:13px;color: rgb(52, 52, 52);">OU Law, Norman, OK</span></em></span></p>
                                 <div style='margin:0in;font-size:16px;font-family:"Times New Roman",serif;'>
                                     <ul style="list-style-type: undefined;margin-left:5px;">
-                                        <li style='margin:0in;font-size:16px;font-family:"Times New Roman",serif;'><span style="border:none windowtext 1.0pt;padding:0in;vertical-align:baseline;"><span style="font-size:13px;color: rgb(52, 52, 52);">Assisted customers with account credentials resets via Active Directory&nbsp;</span></span></li>
+                                        <li style='margin:0in;font-size:16px;font-family:"Times New Roman",serif;'><span style="border:none windowtext 1.0pt;padding:0in;vertical-align:baseline;"><span style="font-size:13px;color: rgb(52, 52, 52);">Assisted customers with account credentials resets via&nbsp;</span></span></li>
+                                    </ul>
+                                </div>
+                                <p style='margin:0in;font-size:16px;font-family:"Times New Roman",serif;margin-left: 15pt;line-height: 15pt;'><span style="border:none windowtext 1.0pt;padding:0in;vertical-align:baseline;"><span style="font-size:13px;color: rgb(52, 52, 52);">Active Directory</span></span></p>
+                                <ul style="list-style-type: undefined;margin-left:5px;">
                                     <li><span class="span"><span style="font-size:13px;color: rgb(52, 52, 52);">Ensured classroom technology was working and setup according to professor specifications</span></span></li>
                                     <li><span class="span"><span style="font-size:13px;color: rgb(52, 52, 52);">Worked efficiently to handle routine office needs and important tasks for special projects</span></span></li>
                                 </ul>
-                                </div>
                             </td>
                         </tr>
                     </tbody>
@@ -171,10 +173,9 @@
                     </tbody>
                 </table>
             </td>
-            <td style="width: 15.5pt;padding: 0.25pt;height: 760pt;vertical-align: bottom;" valign="bottom" width="2.7096774193548385%"><br></td>
-            <td style="width: 15.5pt;background-color: rgb(244, 244, 244);padding: 0.25pt;height: 760pt;vertical-align: bottom;" valign="bottom" width="2.7096774193548385%"><br></td>
-            <td style="width: 154.5pt;background-color: rgb(244, 244, 244);padding: 15.25pt 0.25pt;height: 760pt;vertical-align: top;" valign="top" width="26.580645161290324%">
-                <p style='margin:0in;font-size:16px;font-family:"Times New Roman",serif;line-height: 95.5pt;'><br></p>
+            <td style="width: 15.5pt;padding: 0.25pt;height: 613.4pt;vertical-align: bottom;" valign="bottom" width="2.7096774193548385%"><br></td>
+            <td style="width: 15.5pt;background-color: rgb(244, 244, 244);padding: 0.25pt;height: 613.4pt;vertical-align: bottom;" valign="bottom" width="2.7096774193548385%"><br></td>
+            <td style="width: 154.5pt;background-color: rgb(244, 244, 244);padding: 15.25pt 0.25pt;height: 613.4pt;vertical-align: top;" valign="top" width="26.580645161290324%">
                 <p style='margin:0in;font-size:19px;font-family:"Times New Roman",serif;color:#373D48;line-height: 20pt;'><span style="background:#F4F4F4;"><strong>Contact</strong></span></p>
                 <p style='margin:0in;line-height:3.0pt;font-size:1px;font-family:"Times New Roman",serif;'><span style="background:#F4F4F4;"><span style="color: rgb(52, 52, 52);">&nbsp;</span></span></p>
                 <div style='margin:0in;font-size:16px;font-family:"Times New Roman",serif;border-style: solid none none;border-top-width: 1pt;border-top-color: rgb(213, 214, 214);padding: 0in;'>
