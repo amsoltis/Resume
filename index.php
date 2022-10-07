@@ -62,14 +62,11 @@
                                 <p style='margin:0in;font-size:16px;font-family:"Times New Roman",serif;margin-top: 4pt;line-height: 15pt;'><span style="border:none windowtext 1.0pt;padding:0in;vertical-align:baseline;"><em><span style="font-size:13px;color: rgb(52, 52, 52);">OU Law, Norman, OK</span></em></span></p>
                                 <div style='margin:0in;font-size:16px;font-family:"Times New Roman",serif;'>
                                     <ul style="list-style-type: undefined;margin-left:5px;">
-                                        <li style='margin:0in;font-size:16px;font-family:"Times New Roman",serif;'><span style="border:none windowtext 1.0pt;padding:0in;vertical-align:baseline;"><span style="font-size:13px;color: rgb(52, 52, 52);">Assisted customers with account credentials resets via&nbsp;</span></span></li>
-                                    </ul>
-                                </div>
-                                <p style='margin:0in;font-size:16px;font-family:"Times New Roman",serif;margin-left: 15pt;line-height: 15pt;'><span style="border:none windowtext 1.0pt;padding:0in;vertical-align:baseline;"><span style="font-size:13px;color: rgb(52, 52, 52);">Active Directory</span></span></p>
-                                <ul style="list-style-type: undefined;margin-left:5px;">
+                                        <li style='margin:0in;font-size:16px;font-family:"Times New Roman",serif;'><span style="border:none windowtext 1.0pt;padding:0in;vertical-align:baseline;"><span style="font-size:13px;color: rgb(52, 52, 52);">Assisted customers with account credentials resets via Active Directory&nbsp;</span></span></li>
                                     <li><span class="span"><span style="font-size:13px;color: rgb(52, 52, 52);">Ensured classroom technology was working and setup according to professor specifications</span></span></li>
                                     <li><span class="span"><span style="font-size:13px;color: rgb(52, 52, 52);">Worked efficiently to handle routine office needs and important tasks for special projects</span></span></li>
                                 </ul>
+                                </div>
                             </td>
                         </tr>
                     </tbody>
