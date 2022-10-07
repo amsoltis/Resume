@@ -1,5 +1,6 @@
 <header>
-    <h1>Andrew Soltis</h1>
+    <p class="divdocumentname" style='margin: 0in 15pt 0.0001pt; line-height: 37.5pt; font-size: 35pt; font-family: "Times New Roman", serif; color: white; font-weight: bold;'><span class="span" style="border: 1pt none windowtext; padding: 0in; vertical-align: baseline; color: rgb(40, 50, 78);">Andrew</span><span class="divdocumenttopsectiondiv" style="background-color: rgb(255, 255, 255); color: rgb(255, 255, 255);">&nbsp;</span><span class="divdocumentword-break" style="color: rgb(40, 50, 78);">Soltis</span></p>
+<p class="divdocumentname" style='margin: 0in 15pt 0.0001pt; line-height: 37.5pt; font-size: 35pt; font-family: "Times New Roman", serif; color: white; font-weight: bold;'><span class="divdocumentword-break" style="color: rgb(40, 50, 78); font-size: 18px;">Student</span></p>
 </header>
 <body>
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse;">
